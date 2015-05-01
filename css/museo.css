@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-jun-2014, 20:40:22
+    Author     : CURSO_TARDES
+*/
+.info-foto > p{
+   text-align: justify;
+}
+.info-foto > img{
+   margin-right: 5px;
+}
+

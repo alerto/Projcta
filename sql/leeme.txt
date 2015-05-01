@@ -1,0 +1,1 @@
+Añadir carpeta sergi en -> C:\xampp\mysql\data
